@@ -6,7 +6,7 @@ development.py
 *.pyc
 __pycache__/
 
-instance/
+instance/development.py
 
 .pytest_cache/
 .coverage
